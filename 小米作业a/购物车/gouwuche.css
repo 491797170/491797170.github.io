@@ -1,0 +1,26 @@
+/*底部*/
+#Dibu span{
+    margin-top: 10px;
+    padding-left: 30px;
+}
+#Dibu p{
+      padding-left: 23px;
+    margin-top: 5px;
+}
+.navbar .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2rem;
+}
+
+#an{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+#an button{
+
+    font-size: 30px;
+  
+}

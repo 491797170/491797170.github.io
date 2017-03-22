@@ -1,0 +1,31 @@
+/*底部*/
+#Dibu span{
+    margin-top: 10px;
+    padding-left: 30px;
+}
+#Dibu p{
+      padding-left: 23px;
+    margin-top: 5px;
+}
+
+.navbar .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2rem;
+}
+
+.xiaomi{
+    /*display: flex;*/
+      /*flex-wrap: wrap;*/
+      /*padding-left: 20px;*/
+      /*margin-left: 10px;*/
+      /*margin-top: 20px;*/
+}
+.iphone .xiaomi img{
+    width: 5rem;   
+}
+.xiaomi figcaption{
+    /*font-size: 1rem;*/
+    /*text-align: center;*/
+}

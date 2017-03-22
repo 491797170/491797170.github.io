@@ -1,0 +1,92 @@
+/*底部*/
+body{
+   
+}
+#Dibu span{
+    margin-top: 10px;
+    padding-left: 30px;
+    
+}
+#Dibu p{
+      padding-left: 23px;
+    margin-top: 5px;
+    
+}
+.navbar .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2rem;
+    
+}
+/*立即登陆*/
+.dd h2{
+    /*position: relative;*/
+}
+.dd{
+    width: 100%;
+    background-color: orangered;
+    /*line-height: 50px;*/
+    text-align: center;
+    margin-top: -20px;
+    padding-bottom: 30px;
+    position: relative;
+    
+    
+}
+
+#yuan{
+     box-sizing: border-box;
+    /*margin: 50px;*/
+}
+#yuan div{
+  
+    font-size: 80px;
+    color: orange;
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+
+}
+#dindan{
+    margin: 50px 0px 0px 40px;
+    
+    display: flex;
+    /*align-items: center;*/
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+#onea p{
+    /*border-bottom: 2px solid red;*/
+    /*width: 75px;*/
+}
+#dindan span{
+    font-size: 20px;
+    /*padding-left: 30px;*/
+}
+#dindan p{
+    font-size:15px;
+    margin: 10px 0px 20px -10px;
+  
+}
+
+main div{
+    font-size: 20px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    /*text-align: center;*/
+}
+main div span{
+    /*width: 100%;*/
+    margin-top: 10px;
+    float: left;
+    /*background-color: black;*/
+}
+main div p{
+    /*width: 100%;*/
+    /*float: left;*/
+    /*background-color: black;*/
+    margin-left: 40px;
+    line-height: 35px;
+}
