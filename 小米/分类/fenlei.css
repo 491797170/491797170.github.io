@@ -1,0 +1,27 @@
+/*底部*/
+#Dibu span{
+    margin-top: 10px;
+    padding-left: 28px;
+}
+a{
+    color: dimgray;
+}
+#Dibu p{
+      padding-left: 23px;
+    margin-top: 5px;
+}
+
+.navbar .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2rem;
+}
+figcaption{
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+img{
+    width: 4.5rem;   
+}

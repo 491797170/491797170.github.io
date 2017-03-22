@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="author" content="王晨阳">
+        <title></title>
+        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <style>
+            .row div:nth-of-type(1){
+                background-color: pink;
+            }
+            .row div:nth-of-type(2){
+                background-color: lightblue;
+            }
+            .row div:nth-of-type(4){
+                background-color: yellow;
+            }
+            .row div:nth-of-type(5){
+                background-color: mediumpurple;
+            }
+        </style>
+    </head>
+    <body>
+        
+
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6 col-sm-3">.col-xs-6 .col-sm-3 Resize your viewport or check it out on your phone for an example. </div>
+                <div class="col-xs-6 col-sm-3">.col-xs-6 .col-sm-3</div>
+                
+                <!--clearfix:清除浮动-->
+                <!-- Add the extra clearfix for only the required viewport -->
+                <div class="clearfix visible-xs-block"></div>
+            
+                <div class="col-xs-6 col-sm-3">.col-xs-6 .col-sm-3</div>
+                <div class="col-xs-6 col-sm-3">.col-xs-6 .col-sm-3</div>
+            </div>
+        </div>
+
+        <script src="bootstrap/js/jquery.min.js"></script>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+    </body>
+</html>

@@ -1,10 +1,10 @@
 /*底部*/
-body{
-   
+a{
+    color: dimgray;
 }
 #Dibu span{
     margin-top: 10px;
-    padding-left: 30px;
+    padding-left: 28px;
     
 }
 #Dibu p{
@@ -20,9 +20,7 @@ body{
     
 }
 /*立即登陆*/
-.dd h2{
-    /*position: relative;*/
-}
+
 .dd{
     width: 100%;
     background-color: orangered;
@@ -57,10 +55,7 @@ body{
     flex-wrap: wrap;
     
 }
-#onea p{
-    /*border-bottom: 2px solid red;*/
-    /*width: 75px;*/
-}
+
 #dindan span{
     font-size: 20px;
     /*padding-left: 30px;*/
@@ -81,12 +76,10 @@ main div span{
     /*width: 100%;*/
     margin-top: 10px;
     float: left;
-    /*background-color: black;*/
+
 }
 main div p{
-    /*width: 100%;*/
-    /*float: left;*/
-    /*background-color: black;*/
+
     margin-left: 40px;
     line-height: 35px;
 }

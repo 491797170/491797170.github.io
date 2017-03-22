@@ -1,8 +1,7 @@
 /*nav*/
 
-nav{
-    /*opacity: 0.2   ;*/
-    /*line-height: 10px;*/
+a{
+    color: dimgray;
 }
 .navbar-brand{
     padding: 0px;
@@ -42,25 +41,30 @@ form{
 /*底部*/
 #Dibu span{
     margin-top: 10px;
-    padding-left: 30px;
+    padding-left: 28px;
 }
 #Dibu p{
       padding-left: 23px;
     margin-top: 5px;
 }
 /*中上*/
+#zhongshang{
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+}
+#zhongshang img{
+    /*width:100rem;*/
+    height: 16rem;
+    /*height: 2rem;*/
+}
 
 /*中下*/
-#zhongxia{
-    /*overflow: hidden;*/
-    /*border-bottom: 1px solid black;*/
-    /*background-color: ghostwhite;*/
-    /*float: left;*/
-}
+
 #zhongxia .zuo{
     width: 120px;
     float: left;
-    /*overflow: hidden;*/
+    
 }
 #zhongxia .zuo img{
     width: 150px;

@@ -17,10 +17,19 @@
 #an{
     display: flex;
     justify-content: space-between;
+    /*align-items: center;*/
     margin-top: 50px;
 }
-#an button{
+#an button:nth-child(1){
 
     font-size: 30px;
-  
+    
+
+    
+}
+#an button:nth-child(2){
+
+    font-size: 30px;
+
+    
 }
